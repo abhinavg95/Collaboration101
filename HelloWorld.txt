@@ -1,2 +1,3 @@
 Welcome.
 This repository will help us learn more about git.
+Git is a version control system. (The most commonly used one).
