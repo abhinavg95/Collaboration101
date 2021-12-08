@@ -1,0 +1,2 @@
+Welcome.
+This repository will help us learn more about git.
